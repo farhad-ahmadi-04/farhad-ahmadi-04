@@ -26,5 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhad-ahmadi-04&show_icons=true&locale=en" alt="farhad-ahmadi-04" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhad-ahmadi-04r&" alt="farhad-ahmadi-04" /></p>
+
 
