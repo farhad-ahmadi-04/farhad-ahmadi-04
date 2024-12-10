@@ -5,15 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhad-ahmadi-04" alt="farhad-ahmadi-04" /></a> </p>
 
-- 🌱 I’m currently learning **react**
-
-- 👯 I’m looking to collaborate on **Any project that related to creating website**
-
-- 💬 Ask me about **Html, CSS, js, UI/UX**
-
-- 📫 How to reach me **farhad.13ahmadi.83@gmail.com**
-
-- ⚡ Fun fact **World & equality☕**
+## 👨‍💻 About Me
+> Hi! I’m Farhad Ahmadi, a passionate web developer who loves learning new technologies and collaborating with others to create amazing projects. 🚀
+> My main expertise lies in JavaScript and React, and I’m always looking to improve my skills and explore new tools and methods to tackle challenges in web development.
+> For me, collaboration is an incredible opportunity to turn creative ideas into reality. 🌟
+## 🌟 What I Value
+> Continuous Learning: Staying up-to-date with the ever-evolving tech world is a top priority for me. 📚
+> Developing modern and innovative projects that deliver real value to users and businesses.
+> Teamwork and knowledge sharing: I believe the best ideas come to life through collaboration.
+## 💡 Goals
+> I’m seeking opportunities to grow further in the programming world and explore new horizons in web development. If you’re interested in working together, I’d love to connect with you! 😊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
