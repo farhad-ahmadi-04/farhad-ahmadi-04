@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhad-ahmadi-04" alt="farhad-ahmadi-04" /></a> </p>
 
 ## 👨‍💻 About Me
-> Hi! I’m Farhad Ahmadi, a passionate web developer who loves learning new technologies and collaborating with others to create amazing projects. 🚀
+> Hi! I’m **Farhad Ahmadi**, a passionate front-end developer who loves learning new technologies and collaborating with others to create amazing projects. 🚀
 > My main expertise lies in JavaScript and React, and I’m always looking to improve my skills and explore new tools and methods to tackle challenges in web development.
 > For me, collaboration is an incredible opportunity to turn creative ideas into reality. 🌟
 ## 🌟 What I Value
